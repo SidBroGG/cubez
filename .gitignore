@@ -1,0 +1,42 @@
+# CMake
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Visual Studio
+*.vcxproj*
+*.sln
+*.user
+*.ipch
+*.pdb
+*.idb
+*.aps
+*.log
+
+# Xcode
+*.xcodeproj/*
+*.xcworkspace/*
+*.xcuserdata/
+*.xcuserstate
+
+# QtCreator
+*.pro.user
+*.qmake.stash
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
